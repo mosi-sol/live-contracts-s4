@@ -14,7 +14,8 @@ for more information check my youtube channel: pafecafe
 #
 ### Content sheet:
 
-- 01- 
+- 01- Bitwise Role - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/01-%20Bitwise%20Role) 
+- 02- Bitwise Hash Role - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/02-%20Bitwise%20Hash%20Role) 
 
 ##
 
