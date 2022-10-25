@@ -19,17 +19,6 @@ for more information check my youtube channel: pafecafe
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts)](https://github.com/mosi-sol/live-contracts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts-s2)](https://github.com/mosi-sol/live-contracts-s2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contract-s3)](https://github.com/mosi-sol/live-contract-s3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts-s4)](https://github.com/mosi-sol/live-contracts-s4)
-
-### disclaimer:
-
-- this repo for live video coding.
-- don't use on final product.
-- read more in -> https://github.com/mosi-sol/live-contracts/wiki
-
 <table>
   <tr>
     <th>x</th>
@@ -72,6 +61,19 @@ for more information check my youtube channel: pafecafe
     <td>0</td>
   </tr>
 </table>
+
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts)](https://github.com/mosi-sol/live-contracts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts-s2)](https://github.com/mosi-sol/live-contracts-s2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contract-s3)](https://github.com/mosi-sol/live-contract-s3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts-s4)](https://github.com/mosi-sol/live-contracts-s4)
+
+### disclaimer:
+
+- this repo for live video coding.
+- don't use on final product.
+- read more in -> https://github.com/mosi-sol/live-contracts/wiki
 
 ##
 <div>
