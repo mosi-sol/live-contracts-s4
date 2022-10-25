@@ -30,6 +30,49 @@ for more information check my youtube channel: pafecafe
 - don't use on final product.
 - read more in -> https://github.com/mosi-sol/live-contracts/wiki
 
+<table>
+  <tr>
+    <th>x</th>
+    <th>y</th>
+    <th>x|y</th>
+    <th>x&y</th>
+    <th>x^y</th>
+    <th>~x</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
+
 ##
 <div>
 <span align="left"> 
