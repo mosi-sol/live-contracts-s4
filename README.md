@@ -19,6 +19,8 @@ for more information check my youtube channel: pafecafe
 
 ##
 
+### Bitwise Operators Relation
+
 <table>
   <tr>
     <th>x</th>
