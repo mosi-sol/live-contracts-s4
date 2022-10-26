@@ -6,7 +6,7 @@ A perfect number is equal to the sum of its divisors excluding itself.
 
 #
 
-### problem in solidity
+### problem in solidity:
 perfect number is to hard for calculate in solidity.
 
-so, just use 2 or 3 digit's nums for test.
+so, use 2 or 3 digit's nums for test.
