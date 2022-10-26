@@ -19,6 +19,7 @@ for more information check my youtube channel: pafecafe
 - 03- Bitwise Add (summary) - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/03-%20Bitwise%20Add) 
 - 04- Bitwise Fibonaci - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) 
 - 05- Calculate Power using recursion - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/05-%20Calculate%20Power) 
+- 06- Reverse value - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/06-%20Reverse%20value) 
 
 ##
 
