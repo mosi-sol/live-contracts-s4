@@ -17,6 +17,7 @@ for more information check my youtube channel: pafecafe
 - 01- Bitwise Role - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/01-%20Bitwise%20Role) 
 - 02- Bitwise Hash Role - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/02-%20Bitwise%20Hash%20Role) 
 - 03- Bitwise Add (summary) - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/03-%20Bitwise%20Add) 
+- 04- Bitwise Fibonaci - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) 
 
 ##
 
