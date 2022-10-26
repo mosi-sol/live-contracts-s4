@@ -4,7 +4,7 @@ simple use case for bitwise operator in real world programming.
 
 Enjoy it!
 
-### simple library:
+### simple use by library [example]
 ```solidity
 library BitAdd {
     function add(uint a, uint b) public pure returns (uint) {
