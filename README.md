@@ -64,6 +64,14 @@ for more information check my youtube channel: pafecafe
     <td>0</td>
     <td>0</td>
   </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>or</td>
+    <td>and</td>
+    <td>xor</td>
+    <td>not</td>
+  </tr>
 </table>
 
 ##
