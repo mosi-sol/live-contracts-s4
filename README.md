@@ -21,6 +21,7 @@ for more information check my youtube channel: pafecafe
 - 05- Calculate Power using recursion - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/05-%20Calculate%20Power) 
 - 06- Reverse value - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/06-%20Reverse%20value) 
 - 07- Perfect Number - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/07-%20Perfect%20Number) 
+- 08- Armstrong Number - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/08-%20Armstrong%20Number) 
 
 ##
 
