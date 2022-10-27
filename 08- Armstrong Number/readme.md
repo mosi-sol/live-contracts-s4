@@ -5,6 +5,6 @@ An n-digit number such that the sum of each digit raised to the power n is the n
 
 is an Armstrong number.
 
-> an armstrong number : 153
+> an armstrong number example : 153
 
 Enjoy!
