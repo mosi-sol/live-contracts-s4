@@ -14,4 +14,7 @@ Linear search is rarely practical because other search algorithms and schemes,
 ### library
 can use easily this simple contract is/as a library for implementation in/into your contract.
 
+### iterate!
+this code search from location 0(start) in an aray, but in result the location from 1 to array length(i+1).
+
 Enjoy it!
