@@ -23,6 +23,7 @@ for more information check my youtube channel: pafecafe
 - 07- Perfect Number - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/07-%20Perfect%20Number) 
 - 08- Armstrong Number - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/08-%20Armstrong%20Number) 
 - 09- Factorial (3 solution) - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/09-%20Factorial) 
+- 10- Bubble Sort Algorithm - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/10-%20Bubble%20Sort) 
 
 ##
 
