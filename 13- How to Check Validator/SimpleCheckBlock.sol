@@ -7,7 +7,7 @@ contract CheckBlock {
         uint id;
         bytes32 node;
     }
-    mapping(uint => Node) private node; // now -> next
+    mapping(uint => Node) private node; // id -> id+hash
     uint private id;
 
     // init
