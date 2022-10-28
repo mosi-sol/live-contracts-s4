@@ -26,6 +26,7 @@ for more information check my youtube channel: pafecafe
 - 10- Bubble Sort Algorithm - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/10-%20Bubble%20Sort) 
 - 11- Linear Search Algorithm - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/11-%20Linear%20Search) 
 - 12- Simple mathematic (min-max-avg) - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/12-%20Min_Max_Average) 
+- 13- Simulate how to valid a block - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/13-%20How%20to%20Check%20Validator) 
 
 ##
 
