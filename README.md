@@ -29,6 +29,7 @@ for more information check my youtube channel: pafecafe
 - 13- Simulate how to valid a block - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/13-%20How%20to%20Check%20Validator) 
 - 14- Bitwise Average - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/14-%20Bitwise%20Average) 
 - 15- Find Middle of Array - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/15-%20Find%20Middle%20of%20Array) 
+- 16- Error Handeling - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/16-%20Error%20Debuging) 
 
 ##
 
