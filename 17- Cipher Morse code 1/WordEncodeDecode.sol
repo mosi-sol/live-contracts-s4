@@ -4,8 +4,7 @@ pragma solidity 0.8;
 import "./CharToMorse.sol";
 // import "./MorseToChar.sol";
 
-// ["...","---","..."," ","...","---","..."]
-// ["s","o","s"," ","s","o","s"]
+
 contract TestWord is Cipher {
     function concat(string memory _first, string memory _second) internal pure returns (string memory) {
 		return string(abi.encodePacked(_first, _second));
