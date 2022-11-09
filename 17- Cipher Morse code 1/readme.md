@@ -6,7 +6,7 @@
 ```solidity
 contract Test is Cipher {
     function morse(string memory c) public pure returns (string memory cipher) {
-        return char_to_morse(c);
+        return char_to_morse_code(c);
     }
 }
 ```
