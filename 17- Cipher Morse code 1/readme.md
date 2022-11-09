@@ -19,4 +19,11 @@ contract Test is Cipher {
     }
 }
 ```
+
+- Word Encode & Decode: example data
+```json
+["...","---","..."," ","...","---","..."]
+["s","o","s"," ","s","o","s"]
+``
+
 **Enjoy it!**
