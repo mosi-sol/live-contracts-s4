@@ -47,7 +47,7 @@ contract Cipher {
         else if(keccak256(abi.encodePacked((c))) == keccak256(abi.encodePacked(("8")))) cipher = "---..";
         else if(keccak256(abi.encodePacked((c))) == keccak256(abi.encodePacked(("9")))) cipher = "----.";
         else if(keccak256(abi.encodePacked((c))) == keccak256(abi.encodePacked(("0")))) cipher = "-----";
-        else {revert("not default char");}
+        else {revert("not default/defined char");}
     }
 }
 
