@@ -30,7 +30,8 @@ for more information check my youtube channel: pafecafe
 - 14- Bitwise Average - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/14-%20Bitwise%20Average) 
 - 15- Find Middle of Array - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/15-%20Find%20Middle%20of%20Array) 
 - 16- Error Handeling - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/16-%20Error%20Debuging) 
-- 17- Cipher | Char to Morse code - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/17-%20Cipher%20Morse%20code%201) 
+- 17- Cipher | Morse code - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/17-%20Cipher%20Morse%20code%201) 
+- 18- Cipher | Morse code example - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/18-%20Cipher%20Morse%20Code%202) 
 
 ##
 
