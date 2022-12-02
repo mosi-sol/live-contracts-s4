@@ -34,6 +34,8 @@ for more information check my youtube channel: pafecafe
 - 18- Cipher | Morse code example - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/18-%20Cipher%20Morse%20Code%202) 
 - 19- Cipher Barebone - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/19-%20Cipher%20Barbone) 
 - 20- Cipher | Caesar - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/20-%20Caesar%20Cipher) 
+- 21- Cipher | Enigma simulator - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/21-%20Enigma%20simulator) 
+- 22- Cipher | Abjad - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/22-%20Abjad%20Cipher) 
 
 ##
 
