@@ -36,6 +36,7 @@ for more information check my youtube channel: pafecafe
 - 20- Cipher | Caesar - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/20-%20Caesar%20Cipher) 
 - 21- Cipher | Enigma simulator - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/21-%20Enigma%20simulator) 
 - 22- Cipher | Abjad - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/22-%20Abjad%20Cipher) 
+- 23- Random Number on-chain - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/23-%20Random%20Number) 
 
 ##
 
