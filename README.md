@@ -14,29 +14,31 @@ for more information check my youtube channel: pafecafe
 #
 ### Content sheet:
 
-- 01- Bitwise Role - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/01-%20Bitwise%20Role) 
-- 02- Bitwise Hash Role - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/02-%20Bitwise%20Hash%20Role) 
-- 03- Bitwise Add (summary) - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/03-%20Bitwise%20Add) 
-- 04- Bitwise Fibonaci - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) 
-- 05- Calculate Power using recursion - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/05-%20Calculate%20Power) 
-- 06- Reverse value - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/06-%20Reverse%20value) 
-- 07- Perfect Number - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/07-%20Perfect%20Number) 
-- 08- Armstrong Number - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/08-%20Armstrong%20Number) 
-- 09- Factorial (3 solution) - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/09-%20Factorial) 
-- 10- Bubble Sort Algorithm - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/10-%20Bubble%20Sort) 
-- 11- Linear Search Algorithm - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/11-%20Linear%20Search) 
-- 12- Simple mathematic (min-max-avg) - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/12-%20Min_Max_Average) 
-- 13- Simulate how to valid a block - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/13-%20How%20to%20Check%20Validator) 
-- 14- Bitwise Average - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/14-%20Bitwise%20Average) 
-- 15- Find Middle of Array - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/15-%20Find%20Middle%20of%20Array) 
-- 16- Error Handeling - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/16-%20Error%20Debuging) 
-- 17- Cipher | Morse code - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/17-%20Cipher%20Morse%20code%201) 
-- 18- Cipher | Morse code example - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/18-%20Cipher%20Morse%20Code%202) 
-- 19- Cipher Barebone - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/19-%20Cipher%20Barbone) 
-- 20- Cipher | Caesar - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/20-%20Caesar%20Cipher) 
-- 21- Cipher | Enigma simulator - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/21-%20Enigma%20simulator) 
-- 22- Cipher | Abjad - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/22-%20Abjad%20Cipher) 
-- 23- Random Number on-chain - [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/23-%20Random%20Number) 
+| i | Title | Link |
+| --- | --- | --- |
+| 01 | Bitwise Role | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/01-%20Bitwise%20Role) |
+| 02 | Bitwise Hash Role | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/02-%20Bitwise%20Hash%20Role) |
+| 03 | Bitwise Add (summary) | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/03-%20Bitwise%20Add) |
+| 04 | Bitwise Fibonaci | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) |
+| 05 | Calculate Power using recursion | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/05-%20Calculate%20Power) |
+| 06 | Reverse value | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/06-%20Reverse%20value) |
+| 07 | Perfect Number | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/07-%20Perfect%20Number) |
+| 08 | Armstrong Number | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/08-%20Armstrong%20Number) |
+| 09 | Factorial (3 solution) | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/09-%20Factorial) |
+| 10 | Bubble Sort Algorithm | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/10-%20Bubble%20Sort) |
+| 11 | Linear Search Algorithm | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/11-%20Linear%20Search) |
+| 12 | Simple mathematic (min-max-avg) | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/12-%20Min_Max_Average) |
+| 13 | Simulate how to valid a block | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/13-%20How%20to%20Check%20Validator) |
+| 14 | Bitwise Average | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/14-%20Bitwise%20Average) |
+| 15 | Find Middle of Array | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/15-%20Find%20Middle%20of%20Array) |
+| 16 | Error Handeling | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/16-%20Error%20Debuging) |
+| 17 | Cipher Morse code | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/17-%20Cipher%20Morse%20code%201) |
+| 18 | Cipher Morse code example | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/18-%20Cipher%20Morse%20Code%202) |
+| 19 | Cipher Barebone | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/19-%20Cipher%20Barbone) |
+| 20 | Cipher Caesar | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/20-%20Caesar%20Cipher) |
+| 21 | Cipher Enigma simulator | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/21-%20Enigma%20simulator) |
+| 22 | Cipher Abjad | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/22-%20Abjad%20Cipher) |
+| 23 | Random Number on-chain | [here](https://github.com/mosi-sol/live-contracts-s4/tree/main/23-%20Random%20Number) |
 
 ##
 
