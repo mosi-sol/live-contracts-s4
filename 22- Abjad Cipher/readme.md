@@ -80,7 +80,7 @@ z - 800
  ### test in truffle
  
  ```js
- var Cipher = artifacts.require("f:\- WEB3 - minter dapp\GH-PAGE\mosi-sol blog\Audit\-contracts\live-contracts-s4\22- Abjad Cipher\Abjad.sol");
+ var Cipher = artifacts.require("https://github.com/mosi-sol/live-contracts-s4/blob/main/22-%20Abjad%20Cipher/Abjad.sol");
 
 contract('Cipher', (accounts) => {
     var creatorAddress = accounts[0];
