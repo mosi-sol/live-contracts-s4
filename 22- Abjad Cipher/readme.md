@@ -36,3 +36,38 @@ x - 600
 y - 700
 z - 800
 ```
+
+---
+
+
+|  Contract  |         Type        |       Bases      |                  |                 |
+|:----------:|:-------------------:|:----------------:|:----------------:|:---------------:|
+|     └      |  **Function Name**  |  **Visibility**  |  **Mutability**  |  **Modifiers**  |
+||||||
+| **Cipher** | Implementation |  |||
+| └ | <Constructor> | Public ❗️ | 🛑  |NO❗️ |
+| └ | setup | Private 🔐 | 🛑  | |
+| └ | _T | Internal 🔒 |   | |
+| └ | _sum | Internal 🔒 |   | |
+||||||
+| **Test** | Implementation | Cipher |||
+| └ | T | Public ❗️ |   |NO❗️ |
+| └ | sum | Public ❗️ |   |NO❗️ |
+
+
+ Legend
+
+|  Symbol  |  Meaning  |
+|:--------:|-----------|
+|    🛑    | Function can modify state |
+|    💵    | Function is payable |
+
+---
+
+Sighash   |   Function Signature
+========================
+ba0bba40  |  setup()
+f8ef05b5  |  _T(string)
+b1373adc  |  _sum(string[])
+76e0c274  |  T(string)
+4b4b11bc  |  sum(string[])
