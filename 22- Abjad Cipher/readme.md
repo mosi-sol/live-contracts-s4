@@ -39,6 +39,7 @@ z - 800
 
 ---
 
+### contract info
 
 |  Contract  |         Type        |       Bases      |                  |                 |
 |:----------:|:-------------------:|:----------------:|:----------------:|:---------------:|
@@ -62,12 +63,78 @@ z - 800
 |    🛑    | Function can modify state |
 |    💵    | Function is payable |
 
----
+ ---
+ 
+ ### functions signature
+ 
+| Sighash   |   Function Signature |
+| ---- | ---- |
+| ba0bba40  |  setup() |
+| f8ef05b5  |  _T(string) |
+| b1373adc  |  _sum(string[]) |
+| 76e0c274  |  T(string) |
+| 4b4b11bc  |  sum(string[]) |
+ 
+ ---
+ 
+ ### test in truffle
+ 
+ ```js
+ var Cipher = artifacts.require("f:\- WEB3 - minter dapp\GH-PAGE\mosi-sol blog\Audit\-contracts\live-contracts-s4\22- Abjad Cipher\Abjad.sol");
 
-Sighash   |   Function Signature
-========================
-ba0bba40  |  setup()
-f8ef05b5  |  _T(string)
-b1373adc  |  _sum(string[])
-76e0c274  |  T(string)
-4b4b11bc  |  sum(string[])
+contract('Cipher', (accounts) => {
+    var creatorAddress = accounts[0];
+    var firstOwnerAddress = accounts[1];
+    var secondOwnerAddress = accounts[2];
+    var externalAddress = accounts[3];
+    var unprivilegedAddress = accounts[4]
+    /* create named accounts for contract roles */
+
+    before(async () => {
+        /* before tests */
+    })
+    
+    beforeEach(async () => {
+        /* before each context */
+    })
+
+    it('should revert if ...', () => {
+        return Cipher.deployed()
+            .then(instance => {
+                return instance.publicOrExternalContractMethod(argument1, argument2, {from:externalAddress});
+            })
+            .then(result => {
+                assert.fail();
+            })
+            .catch(error => {
+                assert.notEqual(error.message, "assert.fail()", "Reason ...");
+            });
+        });
+
+    context('testgroup - security tests - description...', () => {
+        //deploy a new contract
+        before(async () => {
+            /* before tests */
+            const newCipher =  await Cipher.new()
+        })
+        
+
+        beforeEach(async () => {
+            /* before each tests */
+        })
+
+        
+
+        it('fails on initialize ...', async () => {
+            return assertRevert(async () => {
+                await newCipher.initialize()
+            })
+        })
+
+        it('checks if method returns true', async () => {
+            assert.isTrue(await newCipher.thisMethodShouldReturnTrue())
+        })
+    })
+});
+
+ ```
