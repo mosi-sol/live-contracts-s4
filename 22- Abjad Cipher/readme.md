@@ -1,6 +1,7 @@
 # ABJAD Ciphe Simulation
 
-enjoy it!
+enjoy it!\
+Note: codes not complete, just in pilot mode for teaching purposes. Full codes on my live videos.
 
 ```js
 ["s", "o", "s"] = 260 = to
