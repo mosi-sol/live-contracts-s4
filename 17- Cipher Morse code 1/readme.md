@@ -1,6 +1,8 @@
 # Cipher series, Morse Code
 - this is the **single Character** to **Morse-Code** 
 
+Note: codes not complete, just in pilot mode for teaching purposes. Full codes on my live videos.
+
 ### how to test
 - character to morse: run this part of code
 ```solidity
