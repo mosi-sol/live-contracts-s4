@@ -1,6 +1,7 @@
 # Enigma simulator
 
-just enjoy it!
+just enjoy it!\
+Note: codes not complete, just in pilot mode for teaching purposes. Full codes on my live videos.
 
 ```js
 input: ["-","h","i","-"] 
