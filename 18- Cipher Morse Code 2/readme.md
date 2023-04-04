@@ -3,7 +3,8 @@
 - send a Letter & an Address by using `sendMsg` function.
 - receive and decode message by using the recipient address in`receiveMsg` function.
 
-Enjoy it!
+Enjoy it!\
+Note: codes not complete, just in pilot mode for teaching purposes. Full codes on my live videos.
 
 ### contract info
 
