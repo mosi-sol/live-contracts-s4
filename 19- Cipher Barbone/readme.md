@@ -1,5 +1,6 @@
 # Ciphers Barbone (structure)
-basic of cryptography has been made thusands years ago in the Caves. if you have key, can decoding.
+basic of cryptography has been made thusands years ago in the Caves. if you have key, can decoding.\
+Note: codes not complete, just in pilot mode for teaching purposes. Full codes on my live videos.
 
 in this example you can test this in solidity.
 
