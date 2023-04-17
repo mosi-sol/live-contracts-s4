@@ -1,7 +1,7 @@
 # Factoiral 
 - 1. normal solution - `function factorNType1`
 - 2. iterate solution - `function factorNType2`
-- 3. algorithmic solution - `function factorNType3`
+- 3. recursive solution - `function factorNType3`
 
 ### example of Number! 
 - 4! = 1x2x3x4 = 24
