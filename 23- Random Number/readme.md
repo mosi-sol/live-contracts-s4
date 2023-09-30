@@ -7,3 +7,5 @@ there’s no official DAO behind the process. “Only” *Proof of Stake* valida
 ```solidity
 pragma solidity 0.8.18; // <-- Solidity 0.8.18 brought a new global variable - block.prevrandao. 
 ```
+
+- read more from searching about "beacon chain"
